@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{5F8EAB61-FE96-4553-9379-91D8C5D0F292}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{94D69AE5-6D34-4382-8E8E-1055B28857C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{6D340BBA-E9DA-4DF0-BF0F-FC66316F9D19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{5F8EAB61-FE96-4553-9379-91D8C5D0F292}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F8EAB61-FE96-4553-9379-91D8C5D0F292}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F8EAB61-FE96-4553-9379-91D8C5D0F292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D69AE5-6D34-4382-8E8E-1055B28857C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D69AE5-6D34-4382-8E8E-1055B28857C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D69AE5-6D34-4382-8E8E-1055B28857C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D69AE5-6D34-4382-8E8E-1055B28857C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D340BBA-E9DA-4DF0-BF0F-FC66316F9D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D340BBA-E9DA-4DF0-BF0F-FC66316F9D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D340BBA-E9DA-4DF0-BF0F-FC66316F9D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D340BBA-E9DA-4DF0-BF0F-FC66316F9D19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
